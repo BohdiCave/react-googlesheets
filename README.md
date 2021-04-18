@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# React App with Google sheets as REST API
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A basic React app with Semantic UI using Google sheets as a REST API to POST form data.
 
 ## Available Scripts
 
